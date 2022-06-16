@@ -1,0 +1,2 @@
+probando un nuevo staged file
+luego debo probar el reset y rm
