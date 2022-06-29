@@ -31,3 +31,8 @@ body {
   font-weight: 400;
   font-size: 0.8em;
 }
+
+footer {
+  background-color: goldenrod;
+  padding: 1em;
+}
