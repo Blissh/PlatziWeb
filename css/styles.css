@@ -26,8 +26,18 @@ body {
   padding: 0.5em;
 }
 
+#cabecera #logo {
+  width: 50px;
+  vertical-align: middle;
+}
+
 #cabecera #tagline {
   padding: 0 0 0 1em;
   font-weight: 400;
   font-size: 0.8em;
+}
+
+footer {
+  background-color: goldenrod;
+  padding: 1em;
 }
